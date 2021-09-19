@@ -1,0 +1,2 @@
+# pseudoBASH
+learn bash scripting 
